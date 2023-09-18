@@ -15,13 +15,13 @@ img {
 
 h1 {
     font-family: system-ui;
-    color: #b3c6e3;
+    color: #d9dbe1;
 }
 
 .sen {
     font-family: fantasy;
     font-size: 18px;
-    color: #d4dae3;
+    color: #d9dbe1;
     margin-bottom: 0;
 }
 
@@ -32,7 +32,7 @@ a {
 svg {
 
     fill: currentColor;
-    color: #d4dae3;
+    color: #d9dbe1;
 }
 
 span {
@@ -42,7 +42,7 @@ span {
 }
 
 h4 {
-    color: #d4dae3;
+    color: #d9dbe1;
     font-family: fantasy;
     margin-bottom: 0px;
 }

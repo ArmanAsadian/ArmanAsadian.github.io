@@ -1,1 +1,58 @@
+body {
+    height: 100vh;
+    background-color: #111;
+    text-align: center;
+    margin: 0;
+    background-image: url("https://www.herzing.edu/sites/default/files/2020-09/how-to-become-software-engineer.jpg");
+    background-size: cover;
+    backdrop-filter: blur(6px);
+}
 
+img {
+    border-radius: 50%;
+    margin-top: 40px;
+}
+
+h1 {
+    font-family: system-ui;
+    color: #b3c6e3;
+}
+
+.sen {
+    font-family: fantasy;
+    font-size: 18px;
+    color: #d4dae3;
+    margin-bottom: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+svg {
+
+    fill: currentColor;
+    color: #d4dae3;
+}
+
+span {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h4 {
+    color: #d4dae3;
+    font-family: fantasy;
+    margin-bottom: 0px;
+}
+
+.in {
+    padding-left: 4px
+}
+
+.tec {
+    display: flex;
+    justify-content: center;
+    align-items: center
+}

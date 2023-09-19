@@ -1,6 +1,5 @@
 body {
     height: 100vh;
-    background-color: #111;
     text-align: center;
     margin: 0;
     background-image: url("//ArmanAsadian.github.io/assets/background.jpeg");
@@ -23,13 +22,13 @@ img {
 
 h1 {
     font-family: system-ui;
-    color: #b3c6e3;
+    color: #e9f0f7;
 }
 
 .sen {
     font-family: fantasy;
     font-size: 18px;
-    color: #b3c6e3;
+    color: #e9f0f7;
     margin-bottom: 0;
 }
 
@@ -40,11 +39,11 @@ a {
 svg {
 
     fill: currentColor;
-    color: #b3c6e3;
+    color: #e9f0f7;
 }
 
 h4 {
-    color: #b3c6e3;
+    color: #e9f0f7;
     font-family: fantasy;
     margin-bottom: 0px;
 }
@@ -56,4 +55,5 @@ h4 {
 span {
     display: flex;
     align-items: center;
+    justify-content: center;
 }

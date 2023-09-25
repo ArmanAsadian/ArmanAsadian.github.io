@@ -65,3 +65,16 @@ svg {
     box-shadow: rgba(0, 0, 0, 0.19) 0px 20px 20px 1px, rgba(0, 0, 0, 0.23) 0px 6px 6px 1px;
     border-radius: 5px;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    background: linear-gradient(90deg, rgba(30,21,153,1) 32%, rgba(83,82,80,1) 72%);
+}
+
+.footer p {
+    font-family: fantasy;
+    color: rgb(255, 255, 255);
+}
